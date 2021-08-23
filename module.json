@@ -1,0 +1,37 @@
+{
+    "name": "verloren-village",
+    "title": "Verloren Village",
+    "description": "Verloren Village's is a dark fantasy village module",
+    "version": "1.0.0",
+    "author": "Chibbin Grove, Of Metal And Magic, Kev's Lounge, PaperMage, Ivan Duch",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [
+        {
+            "name": "module-creatures",
+            "label": "Verloren Village's Tokens (Kev's Lounge and PaperMage) ",
+            "path": "./packs/creatures.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "module-scenes",
+            "label": "Verloren Village's Scenes (Chibbin Grove)",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "module-journal-entries",
+            "label": "Verloren Village's Journal Entries (Of Metal And Magic)",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "module-playlists",
+            "label": "Verloren Village's Playlists (Ivan Duch)",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
