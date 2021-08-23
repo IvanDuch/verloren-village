@@ -32,6 +32,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/IvanDuch/verloren-village/master/module.json",
+    "download": "https://www.dropbox.com/s/1kwiski7pet9zj8/verloren-village.zip?dl=1"
   }
