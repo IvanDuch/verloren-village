@@ -4,7 +4,7 @@ Verloren Village lurks behind a veil of mist & forests, with tight-knit building
 
 If you're into dark fantasy then you're in for a TREAT with this EPIC collab! Maps, music, minis, posters - all on our Patreons just for you!
 
-Credits:
+Authors:
 
 Chibbing Grove,
 Ivan Duch
